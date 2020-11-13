@@ -20,7 +20,7 @@ export const MAIL_CONFIG = {
 	MAIL_SENDER: 'samrat1903y@gmail.com',
 	MAIL_OPTION: {
 		FROM_EMAIL: "'SimForm' <info@simform.com>",
-		TO_EMAIL: 'akshaydhawle531@gmail.com',
+		TO_EMAIL: 'contactyogesh02@gmail.com',
 		SUPPORT_EMAIL: 'support@simform.com',
 	},
 };
