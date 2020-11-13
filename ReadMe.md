@@ -8,7 +8,7 @@
 
 # configuration
 
-- make sure inside src/config/index.js - passed your ADMIN_CRED this email and password be your admin credential to login api so token produced by this apis your to create agent
+- make sure `inside src/config/index.js` - passed your `ADMIN_CRED` this `email` and `password` be your admin credential to login api so token produced by this apis your to create agent
 
 - configure your email to send to other src/config/index.js inside MAIL_CONFIG/HOST_CONFIG/AUTH
 
